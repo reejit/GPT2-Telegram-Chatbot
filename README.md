@@ -14,6 +14,7 @@ Since the bot consumes so much memory, I have it programmed in a round-robin sor
 ```python3 -m pip install tensorflow```
 
 or
+heroku.com/deploy
 
 ```python3 -m pip install tensorflow-gpu```
 
