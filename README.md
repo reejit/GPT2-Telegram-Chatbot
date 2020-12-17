@@ -95,7 +95,7 @@ top_p in: 0.83
 ==========
 ```
 
-For a list of grammarly scores please see [/SCORES.MD](/SCORES.md).
+For a list of grammarly scores please see [/SCORES.MD](heroku.com/deploy).
 
 Tip: 
 
