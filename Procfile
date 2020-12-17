@@ -1,1 +1,1 @@
-bash start
+./start
